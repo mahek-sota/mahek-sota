@@ -2,13 +2,13 @@
 👩‍💻 Mahek Sota<br>🎓 Master’s in Computer Science, University of Southern California<br>🌟 Passionate about crafting innovative solutions in full-stack development, automation, and user-centric design.<br><br>💼 Current Role: Application Analyst at the University of Mississippi<br>📈 Streamlining workflows, automating processes, and building scalable full-stack applications.<br><br>🚀 Key Projects:<br><br>Automated metadata extraction tools for research publications.<br>Developed real-time dashboards for stock market visualization.<br>Built accessible tools for visually impaired users, leveraging ML.<br>🔍 Interests: Full-stack development, Python, automation, DSA, and solving complex problems with elegant solutions.<br><br>📝 Sharing my journey on Medium and LinkedIn—relating tech to everyday life!<br><br>📫 Let’s connect: https://www.linkedin.com/in/mahek-sota/ | https://medium.com/@maheksota56
 
 ## Noteworthy Projects : 
-🚀 Portfolio Website : 
-🚀 Customer Segmentation Analysis
-🚀 File Sharing App 
-🚀 Event Finder 
-🚀 Inventory Management System 
-🚀 Student Dropout Detector 
-🚀 Netflix Clone 
+- 🚀 Portfolio Website : https://github.com/mahek-sota/portfolio-website
+- 🚀 Customer Segmentation Analysis : https://github.com/mahek-sota/customer-segmentation-analysis
+- 🚀 File Sharing App : https://github.com/mahek-sota/file-sharing-app
+- 🚀 Event Finder : https://github.com/mahek-sota/event-finder
+- 🚀 Inventory Management System : https://github.com/mahek-sota/inventory-management-system
+- 🚀 Student Dropout Detector : https://github.com/mahek-sota/student-dropout-detector
+- 🚀 Netflix Clone : https://github.com/mahek-sota/Netflix-Frontend
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahek-sota) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@maheksota56) 
